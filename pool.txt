@@ -1,0 +1,9 @@
+
+//save uploaded image into folder
+args.recipee.photo.then(file => {
+              console.log(file);
+              const {createReadStream, filename, mimetype} = file
+              const fileStream = createReadStream()
+              fileStream.pipe(createWriteStream(`./uploads/${filename}`))
+              
+            }); 

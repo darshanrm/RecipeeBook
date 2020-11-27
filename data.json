@@ -1,0 +1,56 @@
+{
+  "Recipees": [
+    {
+      "author": "Priya",
+      "recipee": "Upama",
+      "description":"Upma is a flavorful South Indian breakfast dish made from rava or cream of wheat.Upma is a traditional breakfast served in restaurants throughout South India, including Maharashtra. It is also a common breakfast prepared in South Indian homes. In fact, upma was a regular breakfast or evening snack in my house while growing up.",
+      "ingredients": [
+        "ghee",
+        "cashews",
+        "urad dal",
+        "chana dal",
+        "onion",
+        "ginger",
+        "additional spices",
+        "sugar(if needed for mildly sweet dish)"
+      ],
+      "tags": [
+        "spicy",
+        "upama",
+        "rava upama"
+      ],
+      "procedure": "Prep the ingredients first. Take 1 cup rava (fine variety), ⅓ cup finely chopped onions, 1 teaspoon chopped green chillies, 1 teaspoon finely chopped ginger and 2 tablespoons coriander leaves (cilantro). Also take 8 to 10 curry leaves, 10 to 12 cashews, 1 teaspoon chana dal and 1 teaspoon urad dal.Heat a pan or kadai first. Add 1 cup rava or cream of wheat (fine variety).Begin to roast the rava. Stir often while roasting the rava.The rava or sooji grains should become fragrant and start to look dry, separate and crisp. Don’t brown the rava.Once the rava becomes fragrant and starts to look dry and crisp, switch off the flame and put the roasted rava on a plate and set aside.In a pan, heat 2 tablespoons ghee (clarified butter) or oil. You could use sunflower oil or peanut oil or safflower oil or any neutral tasting oil.Lower the heat. Add 1 teaspoon mustard seeds. When you hear the crackling sound of mustard seeds, it means they are getting fried. Now add the ½ teaspoon cumin seeds along with 1 teaspoon chana dal (husked and split bengal gram) and 1 teaspoon urad dal (husked and split black gram).Immediately add 10 to 12 cashews and begin to fry on a low to medium-low heat.Now add the finely chopped onions.Then add the chopped green chillies, ginger and curry leaves. You can also add 1 dried red chilli at this step.Then add 2.5 cups water to this mixture.Add salt as required.When the water comes to a rolling boil, lower the flame to its lowest. Then add the rava in 4 to 5 batches with a spoon.Cover and allow the rava upma to steam for 2 to 3 minutes on a low heat.And Upama is ready.",
+      "photo": "upama.jpg",
+      "profile": "monica.jpg",
+      "createdAt": "October 11, 2020",
+      "updatedAt": "October 11, 2020",
+      "id": "n3cSJou"
+    },
+    {
+      "author": "Chandler",
+      "recipee": "Chicken Curry",
+      "description":"This is a really good recipe for spicy Indian chicken curry. It's pretty easy to make and tastes really good!",
+      "ingredients": [
+        "2 pounds skinless, boneless chicken",
+        "2 teaspoons salt",
+        "½ cup cooking oil",
+        "1 ½ cups chopped onion",
+        "1 tablespoon minced garlic",
+        "1 ½ teaspoons minced fresh ginger root",
+        "1 tablespoon curry powder, cumin, turmeric, coriander, pepper, cilantro, salt, garam masala",
+        "1 cup yogurt"
+      ],
+      "tags": [
+        "spicy",
+        "chicken",
+        "chicken curry"
+      ],
+      "procedure":"Sprinkle the chicken breasts with 2 teaspoons salt.Heat the oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned. Transfer the browned chicken breasts to a plate and set aside.Reduce the heat under the skillet to medium-high; add the onion, garlic, and ginger to the oil remaining in the skillet and cook and stir until the onion turns translucent, about 8 minutes. Stir the curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring. Mix the tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt into the mixture. Return the chicken breast to the skillet along with any juices on the plate. Pour 1/2 cup water into the mixture; bring to a boil, turning the chicken to coat with the sauce. Sprinkle the garam masala and 1 tablespoon cilantro over the chicken.Cover the skillet and simmer until the chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Sprinkle with lemon juice to serve.",
+      "photo": "chickenCurry.jpg",
+      "profile": "chandler.jpg",
+      "createdAt": "October 11, 2020",
+      "updatedAt": "October 11, 2020",
+      "id": "ngghn"
+    }
+  ]
+}
