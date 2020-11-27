@@ -1,0 +1,10 @@
+.post {
+  height: 20px;
+  cursor: pointer;
+  margin-left: 70%;
+  text-decoration: none;
+}
+
+.text {
+  font-size: 10px;
+}

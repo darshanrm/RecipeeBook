@@ -1,0 +1,31 @@
+h2 {
+  margin: 10px 0;
+  padding-bottom: 10px;
+  width: 180px;
+  color: #78788c;
+  border-bottom: 3px solid #78788c;
+}
+
+button {
+  border: 2px solid #78788c;
+  background: 0;
+  color: #5a5a5a;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.submitBtn {
+  width: 150px;
+  float: right;
+  font-size: 20px;
+  padding: 10px;
+}
+
+button:hover {
+  background: #78788c;
+  color: #fff;
+}
+
+h3 {
+  color: #78788c;
+}
